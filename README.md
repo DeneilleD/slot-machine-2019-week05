@@ -8,11 +8,12 @@ Build a simple slot machine with minimum 5 items per reel and 3 reels - user sho
 This project highlights my use of HTML, CSS and javaScript; an eye catching, functional program enabling users to have a real casino night feel.Users are able bets against the house in hopes to leave with more money than they began with.
 **Link to project: https://ddslotmachine.netlify.app/** 
 
-![alt tag](snip.PNG)
+![snip](https://user-images.githubusercontent.com/101914097/165115965-c2bbb9b3-76f8-482a-a44a-be0d9ffffcd5.PNG)
 
 ## How It's Made:
 
 **Tech used:** HTML, CSS, JavaScript
+
 
 I utilized my skills in javaScript, HTML and CSS to create functions, event listeners, conditions and more: the utilization of these allowed me to make a user interactive slot machine game. the use of" if" conditions were heavily used to print and run code as the user either loses or wins money. I the 3 slot assigned a variable to obtain the Math.randomnumer so the game would generate the 3 slots seen above.
 
